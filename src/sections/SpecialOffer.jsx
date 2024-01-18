@@ -14,8 +14,8 @@ const SpecialOffer = () => {
                 <p className="mt-4 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quisquam quibusdam perspiciatis nemo quia? Quos molestias nesciunt sunt at id sit, numquam ipsa est reprehenderit iusto doloribus eaque aperiam repellat!</p>
                 <p className="mt-6 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quisquam quibusdam perspiciatis nemo quia? Quos molestias nesciunt sunt at id sit</p>
                 <div className="mt-11 flex flex-wrap gap-4">
-                    <Button label="View details" ic onURL={arrowRight} />
-                    <Button label="Learn more" backgroundcolor="bg-white" bordercolor="border-slate-grey" textcolor="text-slate-grey" />
+                    {/* <Button label="View details" ic onURL={arrowRight} />
+                    <Button label="Learn more" backgroundcolor="bg-white" bordercolor="border-slate-grey" textcolor="text-slate-grey" /> */}
                 </div>
             </div>
         </section>

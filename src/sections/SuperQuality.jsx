@@ -10,7 +10,7 @@ const SuperQuality = () => {
                 <p className="mt-4 lg:max-w-lg info-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quisquam quibusdam perspiciatis nemo quia? Quos molestias nesciunt sunt at id sit, numquam ipsa est reprehenderit iusto doloribus eaque aperiam repellat!</p>
                 <p className="mt-6 lg:max-w-lg info-text">Discover stylish Nike arrival, qaulity comfort, and innovation for your active life.</p>
                 <div className="mt-11">
-                    <Button label="View details" />
+                    {/* <Button label="View details" /> */}
                 </div>
             </div>
             <div className="flex-1 flex justify-center items-center">
