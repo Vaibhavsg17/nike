@@ -2,9 +2,9 @@ import { Hero, CustomerReviews, PopularProducts, Subscribe, SpecialOffer, SuperQ
 import Nav from "./components/Nav";
 const App = () => {
   return (
-    <main main className="relative" >
+    <main className="relative" >
       < Nav />
-      <section section className="xl:padding-l wide:padding-r padding-b" >
+      <section className="xl:padding-l wide:padding-r padding-b" >
         < Hero />
       </section >
       <section className="padding">
